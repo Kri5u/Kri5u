@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### (Link do strony statycznej) [https://kri5u.github.io/index.html]
+### (Link do strony statycznej)[https://kri5u.github.io/index.html]
 
 ### Pozdrowienia dla Pana Magistra Pawła!
 
