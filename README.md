@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-### [Link do strony statycznej GitHub'a](https://Kri5u/kri5u.github.io/index.html)
-
 <!--
 **Kri5u/Kri5u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
